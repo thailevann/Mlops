@@ -28,3 +28,4 @@ Run the following command in your terminal
   streamlit run streamlit_app.py
  ```
 ## Video demo
+https://www.loom.com/share/43601b1dab3d412f864b7a8ac9b04246?sid=036cddaf-064f-4046-8df7-d9a8ba140bff 
