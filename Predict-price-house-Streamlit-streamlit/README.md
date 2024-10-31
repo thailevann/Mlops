@@ -15,6 +15,7 @@ The data is used to train a **Random Forest** regression model, and the details 
 2. Install all required packages by running:
    ```bash
    pip install -r requirements.txt
+   ```
 3. Train the model in the train_model folder. After running the following cell, make sure to save the model in the model folder.:
   ```bash
   import pickle
@@ -25,5 +26,5 @@ The data is used to train a **Random Forest** regression model, and the details 
 Run the following command in your terminal
   ```bash
   streamlit run streamlit_app.py
-
+ ```
 ## Video demo
