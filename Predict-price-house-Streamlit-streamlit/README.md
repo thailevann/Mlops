@@ -20,7 +20,7 @@ The data is used to train a **Random Forest** regression model, and the details 
   import pickle
   with open('model.pkl', 'wb') as file:
       pickle.dump(rf_regressor, file)
-    ```
+   ```
 4. Building the Web Application using Streamlit:
 Run the following command in your terminal
   ```bash
