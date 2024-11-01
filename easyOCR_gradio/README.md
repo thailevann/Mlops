@@ -9,9 +9,9 @@
    pip install -r requirements.txt
    ```
 3. Building the Web Application using Streamlit:
-Run the following command in your terminal
-  ```bash
-  python gradio_app.py
- ```
+   Run the following command in your terminal
+     ```bash
+     python gradio_app.py
+    ```
 ## Video demo
 https://imgur.com/a/7DEKZFO 
